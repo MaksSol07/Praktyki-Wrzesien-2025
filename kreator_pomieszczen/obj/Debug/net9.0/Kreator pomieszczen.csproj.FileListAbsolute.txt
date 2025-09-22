@@ -1,0 +1,116 @@
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\appsettings.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.staticwebassets.runtime.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.staticwebassets.endpoints.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.exe
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.deps.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.runtimeconfig.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Kreator pomieszczen.pdb
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.csproj.AssemblyReference.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.AssemblyInfoInputs.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.AssemblyInfo.cs
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.csproj.CoreCompileInputs.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.RazorAssemblyInfo.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.RazorAssemblyInfo.cs
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\scopedcss\bundle\Kreator pomieszczen.styles.css
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\scopedcss\projectbundle\Kreator pomieszczen.bundle.scp.css
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\dws2132ez1-b9sayid5wm.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\pviwd8njmx-61n19gt1b8.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\7bmb6z6zin-xtxxf3hu2r.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\kdqpxfxkrc-bqjiyaj88i.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\7zi9ng9nl2-c2jlpeoesf.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\9aew8s1pzz-erw9l3u2r3.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\h7salcc6r0-aexeepp0ev.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\0rfze4a78e-d7shbmvgxk.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\2kfwbzwpkh-ausgxo2sd3.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\ipk7fc88tf-k8d9w2qqmf.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\zn638s6ew0-cosvhxvwiu.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\e101p31nsn-ub07r2b239.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\kq1vlo6qvu-fvhpjtyr6v.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\yzixk0anlw-b7pk76d08c.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\6yj53xv82q-fsbi9cje9m.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\dc0yixq0ec-rzd6atqjts.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\xnc2932be9-ee0r1s7dh0.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\0jyu1e0qnu-dxx9fxp4il.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\1vihs1jrir-jd9uben2k1.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\0ljbxt011s-khv3u5hwcm.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\ui2veu69gu-r4e9w2rdcm.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\79kfepjtdq-lcd1t2u6c8.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\7xzeub7qnr-c2oey78nd0.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\tnv33qtr7g-tdbxkamptv.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\oqfecnbatc-j5mq2jizvt.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\kbnv7jzqwh-06098lyss8.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\k1bs7fsexy-nvvlpmu67g.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\syo71ergp9-s35ty4nyc5.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\02bi6ig8r2-pj5nd1wqec.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\efnsnq39gq-46ein0sx1k.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\2ukzd1ftp5-v0zj4ognzu.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\zsyik6tp4l-37tfw0ft22.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\ym1nkwiv3u-hrwsygsryq.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\nj04znxi6m-pk9g2wxc8p.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\pw1g7ttcdv-ft3s53vfgj.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\trlkoxiw4u-6cfz1n2cew.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\gl99ud7v79-6pdc2jztkx.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\0o5timalzd-493y06b0oq.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\qafyxfiqk1-iovd86k7lj.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\sl5wjs66as-vr1egmr9el.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\ch5aix39iz-kbrnm935zg.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\d583zft0i6-jj8uyg4cgr.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\zcapyelpdl-y7v9cxd14o.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\258o21terb-notf2xhcfb.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\6tq89pwz5p-h1s4sie4z3.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\k313gl15jq-63fj8s7r0e.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\4ffkzpypur-0j3bgjxly4.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\pv923r00e1-47otxtyo56.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\kx23etm9a1-4v8eqarkd7.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\yoovb4gxwi-356vix0kms.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\s09034s8p2-83jwlth58m.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\9rthom0cue-mrlpezrjn3.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\n6l12voh50-lzl9nlhx6b.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\lzl2xybi9h-ag7o75518u.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\k8503rds8z-x0q3zqp4vz.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\lz1ts42jew-0i3buxo5is.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\xnl7qwe56u-o1o13a6vjx.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\eo3ufm5wmt-ttgo8qnofa.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\5r2ouc8cw1-2z0ns9nrw6.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\b3kw9vckyp-muycvpuwrr.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\9pkb92796a-87fc7y1x7t.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\ic8f8qbveg-mlv21k5csn.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\cho5lbl3jq-oytapqh7uz.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\compressed\d7n4jz8xr5-oytapqh7uz.gz
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator .D302BA68.Up2Date
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\refint\Kreator pomieszczen.dll
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.pdb
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\Kreator pomieszczen.genruntimeconfig.cache
+C:\Users\makss\Desktop\Praktyki Wrzesień 2025\kreator_pomieszczen\kreator_pomieszczen\obj\Debug\net9.0\ref\Kreator pomieszczen.dll

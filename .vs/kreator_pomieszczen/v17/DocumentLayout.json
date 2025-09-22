@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\views\\home\\kreatorpomieszczen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\views\\home\\kreatorpomieszczen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\views\\home\\pomieszczenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\views\\home\\pomieszczenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\models\\pomieszczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\models\\pomieszczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\data\\pomieszczeniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\data\\pomieszczeniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|c:\\users\\makss\\desktop\\praktyki wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999A2A3D-D391-4E5F-9D37-23070EAE281B}|kreator_pomieszczen\\kreator_pomieszczen.csproj|solutionrelative:kreator_pomieszczen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Program.cs",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Program.cs",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Program.cs",
+              "RelativeToolTip": "kreator_pomieszczen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:20:14.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PomieszczeniaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Data\\PomieszczeniaDbContext.cs",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Data\\PomieszczeniaDbContext.cs",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Data\\PomieszczeniaDbContext.cs",
+              "RelativeToolTip": "kreator_pomieszczen\\Data\\PomieszczeniaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:13:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "kreator_pomieszczen\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:03:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pomieszczenie.cs",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Models\\Pomieszczenie.cs",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Models\\Pomieszczenie.cs",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Models\\Pomieszczenie.cs",
+              "RelativeToolTip": "kreator_pomieszczen\\Models\\Pomieszczenie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:55:03.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KreatorPomieszczen.cshtml",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Views\\Home\\KreatorPomieszczen.cshtml",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Views\\Home\\KreatorPomieszczen.cshtml",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Views\\Home\\KreatorPomieszczen.cshtml",
+              "RelativeToolTip": "kreator_pomieszczen\\Views\\Home\\KreatorPomieszczen.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T17:52:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pomieszczenia.cshtml",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Views\\Home\\Pomieszczenia.cshtml",
+              "RelativeDocumentMoniker": "kreator_pomieszczen\\Views\\Home\\Pomieszczenia.cshtml",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Praktyki Wrzesie\u0144 2025\\kreator_pomieszczen\\kreator_pomieszczen\\Views\\Home\\Pomieszczenia.cshtml",
+              "RelativeToolTip": "kreator_pomieszczen\\Views\\Home\\Pomieszczenia.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T17:40:25.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

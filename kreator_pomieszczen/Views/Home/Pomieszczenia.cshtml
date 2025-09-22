@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Pomieszczenia";
+}
+
+@model List<Pomieszczenie>
+
+<div class="text-center">
+    <h1 class="display-4">Pomieszczenia</h1>
+    <a asp-controller="Home" asp-action="KreatorPomieszczen" class="btn btn-secondary">Stwórz nowe</a>
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Nazwa
+                </th>
+                <th>
+                    Szerokość
+                </th>
+                <th>
+                    Długość
+                </th>
+                <th>
+                    Wysokość
+                </th>
+                <th>
+                    Akcje
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach(var pomieszczenie in Model)
+                {
+                    <tr>
+                        <td>
+                            @pomieszczenie.Id
+                        </td>
+                        <td>
+                            @pomieszczenie.Nazwa
+                        </td>
+                        <td>
+                            @pomieszczenie.Szerokosc
+                        </td>
+                        <td>
+                            @pomieszczenie.Dlugosc
+                        </td>
+                        <td>
+                            @pomieszczenie.Wysokosc
+                        </td>
+                        <td>
+                            <a asp-action="KreatorPomieszczen" asp-route-id="@pomieszczenie.Id">Edytuj</a>
+                            <a asp-action="UsunPomieszczenie" asp-route-id="@pomieszczenie.Id">Edytuj</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

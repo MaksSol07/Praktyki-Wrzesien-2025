@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Kreator Pomieszczeń";
+}
+
+@model kreator_pomieszczen.Models.Pomieszczenie
+
+<div class="text-center">   
+    <h1 class="display-4">To jest Kreator Pomieszczeń</h1>
+    <a asp-action="Index" class="btn btn-primary">Strona Główna Kreatora</a>
+</div>
+
+<form asp-action="KreatorPomieszczenForm" asp-controller="Home">
+    <input hidden class="form-control" type="number" placeholder="0" asp-for="Id" />
+
+    <label class="mt-4">Nazwa</label>
+    <input class="form-control" type="text" placeholder="0" asp-for="Nazwa" />
+
+    <label class="mt-4">Szerokosc</label>
+    <input class="form-control" type="number" placeholder="0" asp-for="Szerokosc" step="0.01"/>
+
+    <label class="mt-4">Dlugosc</label>
+    <input class="form-control" type="number" placeholder="0" asp-for="Dlugosc" step="0.01" />
+
+    <label class="mt-4">Wysokosc</label>
+    <input class="form-control" type="number" placeholder="0" asp-for="Wysokosc" step="0.01" />
+
+    <button class="btn btn-primary" type="submit">Stwórz</button>
+</form>
