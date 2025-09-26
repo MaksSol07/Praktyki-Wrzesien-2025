@@ -1,0 +1,198 @@
+@model Projekt3.Models.Pokoj
+
+<h1>Edytuj pokój</h1>
+
+<form method="post" id="editForm">
+    <div class="form-group">
+        <label for="nazwa">Nazwa</label>
+        <input type="text" class="form-control" id="nazwa" name="Nazwa" value="@Model.Nazwa" required />
+    </div>
+
+    <div class="form-group">
+        <label for="szacowanaWielkosc">Szacowana wielkość (m²)</label>
+        <input type="number" class="form-control" id="szacowanaWielkosc" name="SzacowanaWielkosc"
+               value="@Model.SzacowanaWielkosc" min="1" step="1" required />
+    </div>
+
+    <div class="form-group">
+        <label for="opis">Opis</label>
+        <textarea class="form-control" id="opis" name="Opis">@Model.Opis</textarea>
+    </div>
+
+    <div class="form-group">
+        <label>Zdjęcia pokoju</label>
+        @if (Model.Zdjecia != null && Model.Zdjecia.Any())
+        {
+            <div class="row">
+                @foreach (var zdjecie in Model.Zdjecia)
+                {
+                    <div class="col-md-3 mb-3">
+                        <div class="card">
+                            <img src="~/uploads/@zdjecie.NazwaPliku" class="card-img-top" alt="Zdjęcie pokoju" style="height: 150px; object-fit: cover;">
+                            <div class="card-body p-2">
+                                <button type="button" class="btn btn-danger btn-sm w-100" onclick="deleteZdjecie(@zdjecie.Id, @Model.Id)">
+                                    Usuń zdjęcie
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">Brak zdjęć</p>
+        }
+    </div>
+
+    <h4 class="mt-4">Punkty lokacji</h4>
+    @if (Model.PunktyLokacji != null && Model.PunktyLokacji.Any())
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Data pomiaru</th>
+                    <th>Akcje</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.PunktyLokacji.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            <input type="number" step="any" class="form-control"
+                                   name="PunktyLokacji[@i].Latitude"
+                                   value="@Model.PunktyLokacji[i].Latitude" />
+                        </td>
+                        <td>
+                            <input type="number" step="any" class="form-control"
+                                   name="PunktyLokacji[@i].Longitude"
+                                   value="@Model.PunktyLokacji[i].Longitude" />
+                        </td>
+                        <td>
+                            <input type="date" class="form-control"
+                                   name="PunktyLokacji[@i].DataPomiaru"
+                                   value="@Model.PunktyLokacji[i].DataPomiaru.ToString("yyyy-MM-dd")" />
+                        </td>
+                        <td>
+                            <button type="button" class="btn btn-danger btn-sm" 
+                                    onclick="deletePunkt(@Model.PunktyLokacji[i].Id, @Model.Id)">
+                                Usuń
+                            </button>
+                        </td>
+                        <input type="hidden" name="PunktyLokacji[@i].Id" value="@Model.PunktyLokacji[i].Id" />
+                        <input type="hidden" name="PunktyLokacji[@i].PokojId" value="@Model.Id" />
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Brak punktów lokacji</p>
+    }
+</form>
+
+<div class="card mt-3">
+    <div class="card-header">
+        <h5>Dodaj nowe zdjęcie</h5>
+    </div>
+    <div class="card-body">
+        <form method="post" asp-action="AddZdjecie" enctype="multipart/form-data">
+            <input type="hidden" name="pokojId" value="@Model.Id" />
+            <div class="form-group">
+                <label for="noweZdjecie">Wybierz zdjęcie</label>
+                <input type="file" class="form-control" id="noweZdjecie" name="zdjecie" accept="image/*" required />
+            </div>
+            <button type="submit" class="btn btn-success">Dodaj zdjęcie</button>
+        </form>
+    </div>
+</div>
+
+<div class="card mt-3">
+    <div class="card-header">
+        <h5>Dodaj nowy punkt lokacji</h5>
+    </div>
+    <div class="card-body">
+        <form method="post" asp-action="AddPunktLokacji">
+            <input type="hidden" name="pokojId" value="@Model.Id" />
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label for="newLatitude">Latitude</label>
+                        <input type="number" step="any" class="form-control" id="newLatitude" name="latitude" required />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label for="newLongitude">Longitude</label>
+                        <input type="number" step="any" class="form-control" id="newLongitude" name="longitude" required />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label for="newDataPomiaru">Data pomiaru</label>
+                        <input type="date" class="form-control" id="newDataPomiaru" name="dataPomiaru" 
+                               value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success">Dodaj punkt lokacji</button>
+        </form>
+    </div>
+</div>
+
+<div class="mt-4">
+    <button type="submit" form="editForm" class="btn btn-success">Zapisz</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</div>
+
+<script>
+function deletePunkt(punktId, pokojId) {
+    if (confirm('Czy na pewno chcesz usunąć ten punkt lokacji?')) {
+        var form = document.createElement('form');
+        form.method = 'POST';
+        form.action = '@Url.Action("DeletePunktLokacji", "Kreator")';
+        
+        var punktIdInput = document.createElement('input');
+        punktIdInput.type = 'hidden';
+        punktIdInput.name = 'punktId';
+        punktIdInput.value = punktId;
+        
+        var pokojIdInput = document.createElement('input');
+        pokojIdInput.type = 'hidden';
+        pokojIdInput.name = 'pokojId';
+        pokojIdInput.value = pokojId;
+        
+        form.appendChild(punktIdInput);
+        form.appendChild(pokojIdInput);
+        document.body.appendChild(form);
+        form.submit();
+    }
+}
+
+function deleteZdjecie(zdjecieId, pokojId) {
+    if (confirm('Czy na pewno chcesz usunąć to zdjęcie?')) {
+        var form = document.createElement('form');
+        form.method = 'POST';
+        form.action = '@Url.Action("DeleteZdjecie", "Kreator")';
+        
+        var zdjecieIdInput = document.createElement('input');
+        zdjecieIdInput.type = 'hidden';
+        zdjecieIdInput.name = 'zdjecieId';
+        zdjecieIdInput.value = zdjecieId;
+        
+        var pokojIdInput = document.createElement('input');
+        pokojIdInput.type = 'hidden';
+        pokojIdInput.name = 'pokojId';
+        pokojIdInput.value = pokojId;
+        
+        form.appendChild(zdjecieIdInput);
+        form.appendChild(pokojIdInput);
+        document.body.appendChild(form);
+        form.submit();
+    }
+}
+</script>
